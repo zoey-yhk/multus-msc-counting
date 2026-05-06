@@ -1,6 +1,6 @@
 # MSC Cell Counting Pipeline
 
-Automated pipeline for counting mesenchymal stem cells (MSCs) from brightfield microscopy images. Built as part of a Multus Bioscience internship task (May 2026).
+Automated pipeline for counting mesenchymal stem cells (MSCs) from brightfield microscopy images. 
 
 ## What this is
 
